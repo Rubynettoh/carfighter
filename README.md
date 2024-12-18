@@ -14,6 +14,3 @@ A gamified app to let your anger out on... yeah... cars
 
 ## Credits
 - Special thanks for the Apple Developer Academy community for all the help and feedback.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
